@@ -1,0 +1,12 @@
+{
+  "name": "blackonyx",
+  "powers": ["immenseStrength", "condescending"],
+  "nemesis": "the milk man",
+  "img": "https://64.media.tumblr.com/1a34003c3a6687990172cddba4d883fd/tumblr_p4nss2aAjp1vmifkjo1_1280.jpg",
+  "lifePercentage": 666,
+  "dob": {
+    "day": 6,
+    "month": 6,
+    "year": 6
+  }
+}
